@@ -1,1 +1,1 @@
-# Python
+# Python samples repository
